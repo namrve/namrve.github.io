@@ -754,19 +754,7 @@ img {
     font-size: 18px;
     margin-left: 220px;
 }
-
-.ads_block {
-    color: black;
-    border: 1px solid whitesmoke;
-    background-color: whitesmoke;
-    border-radius: none;
-    width: 480px;
-    height: 2003px;
-    float: right;
-    margin-top: -2005px;
-    margin-right: -8px;
-}
-
+    
 .biznes_idea_4 {
     color: #FBA000;
     font-family: verdana;
@@ -789,16 +777,6 @@ img {
     font-weight: normal;
     font-size: 18px;
     margin-left: 220px;
-}
-
-.ads_div_block {
-    color: black;
-    border: 1px solid whitesmoke;
-    background-color: whitesmoke;
-    border-radius: none;
-    width: 796px;
-    height: 305px;
-    margin-left: 190px;
 }
 
 .busines_block_left {
